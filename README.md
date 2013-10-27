@@ -1,1 +1,1 @@
-test
+A simple utility to keep an iTunes library in sync with a network location.
